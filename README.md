@@ -8,7 +8,6 @@ This repository contains the Figma design files and assets for the Dobbespet Pub
 
 ## 🛠️ Tools Used
 - Figma  
-- Adobe Illustrator (for icons and graphics, if applicable)  
 - Google Fonts  
 
 ## 🌐 Live Website
