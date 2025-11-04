@@ -1,2 +1,20 @@
 # School-Website
-UI/UX design for Dobbespet Public School website — includes Figma prototypes and design assets.
+# Dobbespet Public School Website — UI/UX Design
+
+This repository contains the Figma design files and assets for the Dobbespet Public School website, created as part of a team project.
+
+## 🎨 Role
+**UI/UX Designer** — responsible for user interface design, color palette, typography, and interactive prototypes.
+
+## 🛠️ Tools Used
+- Figma  
+- Adobe Illustrator (for icons and graphics, if applicable)  
+- Google Fonts  
+
+## 🌐 Live Website
+[https://dobbespetpublicschool.com/](https://dobbespetpublicschool.com/)
+
+## 👥 Team
+Developed collaboratively with a team of designers and developers.
+
+
